@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "nome": "Afrodite",
+    "descrição": "Deusa do amor, que apoia os troianos, especialmente Paris.",
+    "aparições": ["Ilíada", "Odisseia"]
+  },
+  {
+    "id": 2,
+    "nome": "Agamemnon",
+    "descrição": "Rei de Micenas e líder supremo dos gregos na guerra de Troia.",
+    "aparições": [
+      "Ilíada",
+      "Odisseia",
+      "Agamemnon",
+      "As Coéforas",
+      "As Eumênides"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Andrómaca",
+    "descrição": "Esposa de Heitor e mãe de seu filho Astianacte.",
+    "aparições": ["Ilíada", "As Troianas", "Andrômaca"]
+  },
+  {
+    "id": 4,
+    "nome": "Antenor",
+    "descrição": "Conselheiro de Príamo.",
+    "aparições": ["Ilíada"]
+  },
+  {
+    "id": 5,
+    "nome": "Apolio",
+    "descrição": "Deus do sol e das artes, que apoia os troianos e ajuda Heitor.",
+    "aparições": ["Ilíada", "Odisseia"]
+  },
+  {
+    "id": 6,
+    "nome": "Ares",
+    "descrição": "Deus da guerra, que frequentemente favorece os troianos.",
+    "aparições": ["Ilíada"]
+  },
+  {
+    "id": 7,
+    "nome": "Ártemis",
+    "descrição": "Deusa da caça e da lua, que também desempenha um papel nos eventos mitológicos.",
+    "aparições": ["Ilíada"]
+  },
+  {
+    "id": 8,
+    "nome": "Ascânio",
+    "descrição": "Filho de Eneias.",
+    "aparições": ["Eneida"]
+  },
+  {
+    "id": 9,
+    "nome": "Atena",
+    "descrição": "Deusa da sabedoria e da guerra, que apoia os gregos.",
+    "aparições": ["Ilíada", "Odisseia"]
+  },
+  {
+    "id": 10,
+    "nome": "Aquiles",
+    "descrição": "O maior guerreiro grego na guerra de Troia e protagonista da 'Ilíada'.",
+    "aparições": ["Ilíada"]
+  },
+  {
+    "id": 11,
+    "nome": "Ájax Telamônio",
+    "descrição": "Um dos mais fortes guerreiros gregos, conhecido por sua bravura e força física.",
+    "aparições": ["Ilíada", "Ajax"]
+  },
+  {
+    "id": 12,
+    "nome": "Briseida",
+    "descrição": "Escrava de Aquiles que se torna a causa de um conflito entre Aquiles e Agamemnon.",
+    "aparições": ["Ilíada"]
+  },
+  {
+    "id": 13,
+    "nome": "Cassandra",
+    "descrição": "Filha de Príamo e Hécuba, sacerdotisa de Apolo, dotada do dom da profecia.",
+    "aparições": [
+      "Ilíada",
+      "Agamemnon",
+      "As Troianas",
+      "As Coéforas",
+      "As Eumênides"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Diomedes",
+    "descrição": "Rei de Argos e um dos guerreiros mais proeminentes dos gregos.",
+    "aparições": ["Ilíada"]
+  },
+  {
+    "id": 15,
+    "nome": "Eneias",
+    "descrição": "Valente guerreiro troiano, filho da deusa Afrodite.",
+    "aparições": ["Ilíada", "Eneida"]
+  },
+  {
+    "id": 16,
+    "nome": "Glauco",
+    "descrição": "Um guerreiro troiano e aliado de Heitor.",
+    "aparições": ["Ilíada"]
+  },
+  {
+    "id": 17,
+    "nome": "Hécuba",
+    "descrição": "Rainha de Troia, esposa de Príamo e mãe de Heitor e Paris.",
+    "aparições": ["Ilíada", "As Troianas", "Hécuba"]
+  },
+  {
+    "id": 18,
+    "nome": "Heitor",
+    "descrição": "O maior guerreiro troiano e príncipe de Troia.",
+    "aparições": ["Ilíada", "As Troianas"]
+  },
+  {
+    "id": 19,
+    "nome": "Helena",
+    "descrição": "Esposa de Menelau que foi raptada por Paris, causando a guerra de Troia.",
+    "aparições": ["Ilíada", "Odisseia", "Helena", "As Troianas"]
+  },
+  {
+    "id": 20,
+    "nome": "Hera",
+    "descrição": "Esposa de Zeus, que apoia os gregos na guerra.",
+    "aparições": ["Ilíada", "Odisseia"]
+  },
+  {
+    "id": 21,
+    "nome": "Idomeneu",
+    "descrição": "Rei de Creta e um dos principais líderes gregos na guerra de Troia.",
+    "aparições": ["Ilíada", "Odisseia"]
+  },
+  {
+    "id": 22,
+    "nome": "Menelau",
+    "descrição": "Rei de Esparta e marido de Helena, cuja abdução por Paris desencadeou a guerra de Troia.",
+    "aparições": ["Ilíada", "Odisseia", "Helena", "As Troianas"]
+  },
+  {
+    "id": 23,
+    "nome": "Nestor",
+    "descrição": "Rei de Pilos, conhecido por sua sabedoria e idade avançada.",
+    "aparições": ["Ilíada", "Odisseia"]
+  },
+  {
+    "id": 24,
+    "nome": "Odisseu (Ulisses)",
+    "descrição": "Rei de Ítaca, conhecido por sua astúcia e eloquência.",
+    "aparições": ["Ilíada", "Odisseia", "Filoctetes", "Ajax", "As Troianas"]
+  },
+  {
+    "id": 25,
+    "nome": "Paris (Alexandre)",
+    "descrição": "Príncipe de Troia, cuja abdução de Helena causou a guerra de Troia.",
+    "aparições": ["Ilíada", "As Troianas"]
+  },
+  {
+    "id": 26,
+    "nome": "Patroclo",
+    "descrição": "Melhor amigo e companheiro de Aquiles, cuja morte é um ponto crucial na 'Ilíada'.",
+    "aparições": ["Ilíada"]
+  },
+  {
+    "id": 27,
+    "nome": "Penélope",
+    "descrição": "Esposa de Odisseu, conhecida por sua fidelidade e astúcia.",
+    "aparições": ["Odisseia"]
+  },
+  {
+    "id": 28,
+    "nome": "Polidamante",
+    "descrição": "Um dos líderes troianos e conselheiro de Heitor.",
+    "aparições": ["Ilíada"]
+  },
+  {
+    "id": 29,
+    "nome": "Polissena",
+    "descrição": "Filha de Príamo, sacrificada após a queda de Troia.",
+    "aparições": ["As Troianas", "Hécuba"]
+  },
+  {
+    "id": 30,
+    "nome": "Poseidon",
+    "descrição": "Deus do mar, que apoia os gregos.",
+    "aparições": ["Ilíada", "Odisseia", "Prometeu Acorrentado"]
+  },
+  {
+    "id": 31,
+    "nome": "Príamo",
+    "descrição": "Rei de Troia, pai de Heitor e Paris.",
+    "aparições": ["Ilíada", "As Troianas"]
+  },
+  {
+    "id": 32,
+    "nome": "Sarpedão",
+    "descrição": "Filho de Zeus e guerreiro aliado dos troianos.",
+    "aparições": ["Ilíada"]
+  },
+  {
+    "id": 33,
+    "nome": "Tétis",
+    "descrição": "Nereida e mãe de Aquiles, que intercede em favor de seu filho.",
+    "aparições": ["Ilíada"]
+  },
+  {
+    "id": 34,
+    "nome": "Térsites",
+    "descrição": "Um guerreiro grego conhecido por sua covardia e insubordinação.",
+    "aparições": ["Ilíada"]
+  },
+  {
+    "id": 35,
+    "nome": "Tlepolemo",
+    "descrição": "Filho de Hércules, um dos guerreiros gregos na guerra de Troia.",
+    "aparições": ["Ilíada"]
+  },
+  {
+    "id": 36,
+    "nome": "Trasímaco",
+    "descrição": "Um dos guerreiros gregos na guerra de Troia.",
+    "aparições": ["Ilíada"]
+  },
+  {
+    "id": 37,
+    "nome": "Zeus",
+    "descrição": "Rei dos deuses, que tenta manter o equilíbrio entre gregos e troianos.",
+    "aparições": ["Ilíada", "Odisseia"]
+  }
+]
