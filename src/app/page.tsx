@@ -1,5 +1,6 @@
-import Main from "@/components/Main";
+import { Characters } from "@/components/Characters";
+import Homepage from "@/components/Homepage";
 
 export default function Home() {
-  return <Main />;
+  return <Homepage />;
 }

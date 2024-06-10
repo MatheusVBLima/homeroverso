@@ -23,7 +23,7 @@ export default function CharacterPage({
   const historiaEntries = Object.entries(character?.história || {});
 
   return (
-    <div className="container mt-4">
+    <div className="container mt-4 py-4">
       <Breadcrumb>
         <BreadcrumbList>
           <BreadcrumbItem>
@@ -31,7 +31,11 @@ export default function CharacterPage({
           </BreadcrumbItem>
           <BreadcrumbSeparator />
           <BreadcrumbItem>
-            <BreadcrumbLink href={`/character/${encodedSlug}`}>
+            <BreadcrumbLink href="/personagens">Personagens</BreadcrumbLink>
+          </BreadcrumbItem>
+          <BreadcrumbSeparator />
+          <BreadcrumbItem>
+            <BreadcrumbLink href={`/personagem/${encodedSlug}`}>
               {decodedSlug}
             </BreadcrumbLink>
           </BreadcrumbItem>

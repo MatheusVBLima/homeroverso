@@ -4,6 +4,7 @@ import "./globals.css";
 import { ThemeProvider } from "@/components/ThemeProvider";
 import Header from "@/components/Header";
 import { Separator } from "@/components/ui/separator";
+import Footer from "@/components/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -26,10 +27,12 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <div className="min-h-screen">
+          <div className="flex flex-col min-h-screen">
             <Header />
             <Separator />
-            {children}
+            <div className="flex-1">{children}</div>
+            <Separator />
+            <Footer />
           </div>
         </ThemeProvider>
       </body>
