@@ -6,12 +6,12 @@ import Link from "next/link";
 
 export default function Homepage() {
   return (
-    <div className="container space-y-8 mt-10">
-      <div className="flex flex-col font-bold font-mono justify-center items-center text-4xl">
+    <div className="container space-y-8 mt-10 py-4">
+      <div className="flex flex-col font-bold font-mono justify-center text-center items-center text-4xl">
         <span>Universo Anthares</span>
         <span>No Homeroverso</span>
       </div>
-      <div className="grid grid-cols-2 gap-6">
+      <div className="grid xl:grid-cols-2 gap-6">
         <div className="flex flex-col text-justify gap-8 text-lg">
           <p>
             Bem-vindo ao nosso site! Nosso objetivo é mapear os personagens mais
@@ -54,7 +54,7 @@ export default function Homepage() {
             </div>
           </div>
         </div>
-        <div>
+        <div className="flex items-center justify-center">
           <Image
             src={hero}
             alt="Imagem mitologia grega"

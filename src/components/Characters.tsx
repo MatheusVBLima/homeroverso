@@ -12,7 +12,7 @@ import {
 export function Characters() {
   return (
     <div className=" container mt-6 py-4 space-y-6">
-      <div className="flex flex-col items-center justify-center">
+      <div className="flex flex-col items-center justify-center text-center">
         <h1 className="text-2xl font-bold">Lista de personagens</h1>
         <p className="text-lg font-semibold">
           Clique em cada card para obter mais detalhes sobre o personagem

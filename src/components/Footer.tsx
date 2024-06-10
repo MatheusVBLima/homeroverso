@@ -4,7 +4,7 @@ import { Button } from "./ui/button";
 
 export default function Footer() {
   return (
-    <div className="container flex justify-between items-center py-4">
+    <div className="container flex flex-col gap-4 items-center lg:flex lg:flex-row lg:justify-between py-4">
       <div className="flex flex-col gap-2">
         <span>Desenvlvido por: Matheus Lima</span>
         <span>Contato: matheus.lima@ccc.ufcg.edu.br</span>
