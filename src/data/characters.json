@@ -3,7 +3,18 @@
     "id": 1,
     "nome": "Afrodite",
     "descrição": "Deusa do amor, que apoia os troianos, especialmente Paris.",
-    "aparições": ["Ilíada", "Odisseia"]
+    "aparições": ["Ilíada", "Odisseia"],
+    "história": {
+      "Origens e Nascimento": "Afrodite tem duas versões principais de seu nascimento. Na versão mais antiga e amplamente conhecida, descrita por Hesíodo em sua 'Teogonia', Afrodite nasceu da espuma do mar. Após Cronos castrar seu pai, Urano, seus genitais foram lançados no mar, e da espuma resultante emergiu Afrodite perto da ilha de Chipre. Na outra versão, segundo Homero na 'Ilíada', Afrodite é filha de Zeus e da ninfa Dione.",
+      "Papel na Mitologia": "Afrodite desempenha papéis cruciais em muitos mitos gregos, destacando-se como uma figura poderosa, sedutora e às vezes vingativa. Alguns dos mitos mais famosos envolvendo Afrodite incluem:",
+      "O Julgamento de Páris": "Um dos episódios mais importantes que destacam Afrodite é o julgamento de Páris, que desencadeou a Guerra de Troia. Páris, príncipe de Troia, foi escolhido para decidir qual de três deusas – Hera, Atena e Afrodite – era a mais bela. Cada deusa ofereceu-lhe um suborno: Hera prometeu poder, Atena prometeu sabedoria e habilidade na guerra, e Afrodite prometeu-lhe o amor da mulher mais bela do mundo, Helena de Esparta. Páris escolheu Afrodite, o que resultou no rapto de Helena e, eventualmente, na Guerra de Troia.",
+      "Casamento e Amores": "Afrodite foi casada com Hefesto, o deus ferreiro, mas teve muitos amantes. Entre eles estava Ares, o deus da guerra, com quem teve vários filhos, incluindo Eros (Cupido), Fobos, Deimos e Harmonia. Seu relacionamento com Ares era notoriamente apaixonado e foi descoberto por Hefesto, que os prendeu em uma rede mágica e exibiu sua infidelidade aos outros deuses do Olimpo.",
+      "Adônis": "Um dos amores mortais mais famosos de Afrodite foi Adônis, um jovem de beleza extraordinária. Afrodite se apaixonou por ele e tentou protegê-lo, mas Adônis foi fatalmente ferido por um javali. De seu sangue, Afrodite fez nascer a flor anêmona, perpetuando a memória de seu amor.",
+      "Afrodite na Guerra de Troia": "Durante a Guerra de Troia, Afrodite apoiou fortemente os troianos, em particular seu protegido, Páris. Ela frequentemente intervinha para protegê-lo e a outros heróis troianos. No entanto, sua influência não foi suficiente para garantir a vitória dos troianos, e ela muitas vezes entrou em conflito com outros deuses que apoiavam os gregos.",
+      "Culta e Adoração": "Afrodite era amplamente adorada em várias cidades-estado gregas, especialmente em Chipre, onde se dizia que ela havia nascido. Ela também tinha importantes centros de culto em Citera e Corinto. Os rituais em sua homenagem frequentemente envolviam celebrações de beleza, amor e fertilidade.",
+      "Simbolismo e Iconografia": "Afrodite é frequentemente retratada emergindo do mar, simbolizando seu nascimento, e é associada a vários símbolos, incluindo a pomba, a maçã, a concha e o espelho. Sua beleza era incomparável e ela era frequentemente acompanhada por Eros, seu filho e companheiro alado.",
+      "Influência Posterior": "A figura de Afrodite foi adaptada e reinterpretada na mitologia romana como Vênus, onde ela continuou a ser uma deusa central do amor e da beleza. Sua influência se estendeu à arte, literatura e cultura ao longo dos séculos, e ela continua a ser uma figura icônica na mitologia e na cultura popular."
+    }
   },
   {
     "id": 2,
