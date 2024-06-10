@@ -13,8 +13,8 @@ export default function Main() {
   return (
     <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 container mt-6">
       {characters.map((character) => (
-        <Link href={`/character/${encodeURIComponent(character.nome)}`}>
-          <Card key={character.id} className="min-h-[350px] flex flex-col">
+        <Link href={`/character/${encodeURIComponent(character.nome)}`} key={character.id}>
+          <Card className="min-h-[350px] flex flex-col">
             <CardHeader>
               <CardTitle>{character.nome}</CardTitle>
               <CardDescription>{character.descrição}</CardDescription>
